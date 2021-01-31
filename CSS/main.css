@@ -1,3 +1,18 @@
-.First{
+.First, .Second{
     background-color: lightblue;
+}
+
+.Container {
+    display: inline;
+}
+
+.Navigation {
+    font-size: larger;
+}
+.Dogs {
+    width: 100px;  
+    height: 100px;  
+    text-align: center;  
+    padding: 15px;  
+    border: 3px solid pink; 
 }
